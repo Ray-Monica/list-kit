@@ -5,7 +5,7 @@
  * @Version: 1.0.0
  * @Date: 2023/12/21 14:17
  */
-package list
+package list-kit
 import (
 	"container/list"
 )
