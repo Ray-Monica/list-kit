@@ -1,1 +1,1 @@
-module "github.com/ray-monica/list-kit"
+module github.com/ray-monica/list-kit
